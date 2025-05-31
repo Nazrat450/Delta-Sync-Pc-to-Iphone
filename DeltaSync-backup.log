@@ -1,0 +1,390 @@
+2025-05-30 02:53:03 - Started Delta Save Sync monitor.
+2025-05-30 02:53:14 - Emulator started (PID 21084).
+2025-05-30 02:53:14 - Tracking PokemonSapphire: GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave, LastWrite: 05/30/2025 02:45:06
+2025-05-30 02:53:14 - Tracking PokemonSeaGlass: GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave, LastWrite: 05/30/2025 02:46:17
+2025-05-30 02:53:18 - Emulator started (PID 21084).
+
+Game Name          Delta File Name                            Backup Save File             Action         Status    
+--------------------------------------------------------------------------------------------------------------------
+PokemonSapphire    GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave                              Track          Watching  
+PokemonSeaGlass    GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave                              Track          Watching  
+2025-05-30 02:53:18 - Emulator started (PID 21084).
+2025-05-30 02:53:18 - Tracking PokemonSapphire: GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave, LastWrite: 05/30/2025 02:45:06
+2025-05-30 02:53:18 - Tracking PokemonSeaGlass: GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave, LastWrite: 05/30/2025 02:46:17
+2025-05-30 02:53:48 - Emulator exited; checking for save updates.
+
+Game Name          Delta File Name                            Backup Save File             Action         Status    
+--------------------------------------------------------------------------------------------------------------------
+PokemonSapphire    GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave                              Backup         No Change 
+PokemonSeaGlass    GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave                              Backup         No Change 
+2025-05-30 02:53:48 - Emulator exited; checking for save updates.
+2025-05-30 02:53:48 - No changes in PokemonSapphire; skipping backup.
+2025-05-30 02:53:48 - No changes in PokemonSeaGlass; skipping backup.
+2025-05-30 02:53:49 - Emulator exited; checking for save updates.
+2025-05-30 02:53:49 - No changes in PokemonSapphire; skipping backup.
+2025-05-30 02:53:49 - No changes in PokemonSeaGlass; skipping backup.
+2025-05-30 02:56:23 - Started Delta Save Sync monitor.
+2025-05-30 02:56:38 - Emulator started (PID 13536).
+
++--------------------+--------------------------------------------+------------------------------+----------------+------------+
+| Game Name          | Delta File Name                           | Backup Save File             | Action         | Status     |
++--------------------+--------------------------------------------+------------------------------+----------------+------------+
+| PokemonSapphire    | GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave |                              | Track          | Watching   |
+| PokemonSeaGlass    | GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave |                              | Track          | Watching   |
+2025-05-30 02:56:38 - Emulator started (PID 13536).
+2025-05-30 02:56:38 - Tracking PokemonSapphire: GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave, LastWrite: 05/30/2025 02:45:06
+2025-05-30 02:56:38 - Tracking PokemonSeaGlass: GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave, LastWrite: 05/30/2025 02:46:17
+2025-05-30 02:56:39 - Emulator started (PID 13536).
+2025-05-30 02:56:39 - Tracking PokemonSapphire: GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave, LastWrite: 05/30/2025 02:45:06
+2025-05-30 02:56:39 - Tracking PokemonSeaGlass: GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave, LastWrite: 05/30/2025 02:46:17
+2025-05-30 02:57:07 - Started Delta Save Sync monitor.
+2025-05-30 02:57:12 - Emulator started (PID 13536).
+
++--------------------+--------------------------------------------+------------------------------+----------------+------------+
+| Game Name          | Delta File Name                           | Backup Save File             | Action         | Status     |
++--------------------+--------------------------------------------+------------------------------+----------------+------------+
+| PokemonSapphire    | GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave |                              | Track          | Watching   |
+| PokemonSeaGlass    | GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave |                              | Track          | Watching   |
+2025-05-30 02:57:42 - Emulator exited; checking for save updates.
+
++--------------------+--------------------------------------------+------------------------------+----------------+------------+
+| Game Name          | Delta File Name                           | Backup Save File             | Action         | Status     |
++--------------------+--------------------------------------------+------------------------------+----------------+------------+
+| PokemonSapphire    | GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave |                              | Backup         | No Change  |
+| PokemonSeaGlass    | GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave | PokemonSeaGlass_30-05-2025_2-57AM.sav | Backup         | Done       |
+| PokemonSeaGlass    | GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave | PokemonSeaGlass_30-05-2025_2-46AM.sav | Cleanup        | Deleted    |
+2025-05-30 02:57:43 - Emulator exited; checking for save updates.
+2025-05-30 02:57:43 - No changes in PokemonSapphire; skipping backup.
+2025-05-30 02:57:43 - Backed up GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave to PokemonSeaGlass_30-05-2025_2-57AM.sav.
+2025-05-30 02:57:43 - ERROR: Failed to backup GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave: Exception calling "AppendText" with "1" argument(s): "Cannot access a disposed object.
+Object name: 'TextBox'."
+2025-05-30 02:57:44 - Emulator exited; checking for save updates.
+2025-05-30 02:57:44 - No changes in PokemonSapphire; skipping backup.
+2025-05-30 02:57:44 - Backed up GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave to PokemonSeaGlass_30-05-2025_2-57AM.sav.
+2025-05-30 02:57:44 - ERROR: Failed to backup GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave: Exception calling "AppendText" with "1" argument(s): "Cannot access a disposed object.
+Object name: 'TextBox'."
+2025-05-30 03:02:21 - Started Delta Save Sync monitor.
+2025-05-30 03:02:30 - Started Delta Save Sync monitor.
+2025-05-30 03:02:35 - Emulator started (PID 25040).
+2025-05-30 03:02:35 - Tracking PokemonSapphire: GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave, LastWrite: 05/30/2025 02:45:06
+2025-05-30 03:02:35 - Tracking PokemonSeaGlass: GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave, LastWrite: 05/30/2025 02:57:41
+2025-05-30 03:02:35 - Emulator started (PID 25040).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 03:02:39 - Emulator started (PID 25040).
+2025-05-30 03:02:39 - Tracking PokemonSapphire: GameSave-89b45fb172e6b55d51fc0e61989775187f6fe63c-gameSave, LastWrite: 05/30/2025 02:45:06
+2025-05-30 03:02:39 - Tracking PokemonSeaGlass: GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave, LastWrite: 05/30/2025 02:57:41
+2025-05-30 03:03:15 - Emulator exited; checking for save updates.
+2025-05-30 03:03:15 - No changes in PokemonSapphire; skipping backup.
+2025-05-30 03:03:15 - Backed up GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave to PokemonSeaGlass_30-05-2025_3-03AM.sav.
+2025-05-30 03:03:15 - ERROR: Failed to backup GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave: Exception calling "AppendText" with "1" argument(s): "Cannot access a disposed object.
+Object name: 'TextBox'."
+2025-05-30 03:03:15 - Deleted old backup PokemonSeaGlass_30-05-2025_2-57AM.sav for game PokemonSeaGlass.
+2025-05-30 03:03:15 - ERROR: Could not delete PokemonSeaGlass_30-05-2025_2-57AM.sav: Exception calling "AppendText" with "1" argument(s): "Cannot access a disposed object.
+Object name: 'TextBox'."
+2025-05-30 03:03:15 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... | PokemonSeaGlass_30-05-2025_... | Backup           | Done       |
+2025-05-30 03:03:19 - Emulator exited; checking for save updates.
+2025-05-30 03:03:19 - No changes in PokemonSapphire; skipping backup.
+2025-05-30 03:03:19 - Backed up GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave to PokemonSeaGlass_30-05-2025_3-03AM.sav.
+2025-05-30 03:03:19 - ERROR: Failed to backup GameSave-62db1951c3e4ca2cf9cd16b20254baa6ebc04a25-gameSave: Exception calling "AppendText" with "1" argument(s): "Cannot access a disposed object.
+Object name: 'TextBox'."
+2025-05-30 12:51:23 - Started Delta Save Sync monitor.
+2025-05-30 12:51:28 - Emulator started (PID 23228).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 12:51:48 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... | PokemonSeaGlass_30-05-2025_... | Backup           | Done       |
+2025-05-30 12:55:14 - Started Delta Save Sync monitor.
+2025-05-30 12:55:19 - Emulator started (PID 13848).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 12:56:34 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Backup           | No Change  |
+2025-05-30 12:57:17 - Started Delta Save Sync monitor.
+2025-05-30 12:57:22 - Emulator started (PID 21400).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 12:58:37 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... | PokemonSeaGlass_30-05-2025_... | Backup           | Done       |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... | PokemonSeaGlass_30-05-2025_... | Cleanup          | Deleted    |
+2025-05-30 15:35:13 - Started Delta Save Sync monitor.
+2025-05-30 15:35:18 - Emulator started (PID 9124).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 15:36:00 - Started Delta Save Sync monitor.
+2025-05-30 15:36:05 - Emulator started (PID 22716).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 15:42:31 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... | PokemonSeaGlass_30-05-2025_... | Backup           | Done       |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... | PokemonSeaGlass_30-05-2025_... | Cleanup          | Deleted    |
+2025-05-30 17:32:22 - Started Delta Save Sync monitor.
+2025-05-30 17:32:27 - Emulator started (PID 24356).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 17:33:07 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... | PokemonSeaGlass_30-05-2025_... | Backup           | Done       |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... | PokemonSeaGlass_30-05-2025_... | Cleanup          | Deleted    |
+2025-05-30 18:18:03 - Started Delta Save Sync monitor.
+2025-05-30 18:18:08 - Emulator started (PID 23352).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 18:18:38 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Backup           | No Change  |
+2025-05-30 18:20:30 - Started Delta Save Sync monitor.
+2025-05-30 18:20:35 - Emulator started (PID 21660).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 18:20:50 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Backup           | No Change  |
+2025-05-30 18:21:03 - Started Delta Save Sync monitor.
+2025-05-30 18:21:08 - Emulator started (PID 20444).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 18:26:59 - Started Delta Save Sync monitor.
+2025-05-30 18:27:04 - Emulator started (PID 19576).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 18:27:09 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Backup           | No Change  |
+2025-05-30 18:36:49 - Started Delta Save Sync monitor.
+2025-05-30 18:36:54 - Emulator started (PID 23572).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 18:37:44 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... | PokemonSeaGlass_30-05-2025_... | Backup           | Done       |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... | PokemonSeaGlass_30-05-2025_... | Cleanup          | Deleted    |
+2025-05-30 18:37:44 - All tasks complete. Exiting.
+2025-05-30 18:39:53 - Started Delta Save Sync monitor.
+2025-05-30 18:39:58 - Emulator started (PID 5236).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 18:40:48 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Backup           | No Change  |
+2025-05-30 18:40:48 - All tasks complete. Exiting.
+2025-05-30 23:17:17 - Started Delta Save Sync monitor.
+2025-05-30 23:17:22 - Emulator started (PID 14816).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 23:17:37 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Backup           | No Change  |
+2025-05-30 23:17:37 - All tasks complete. Exiting.
+2025-05-30 23:50:31 - Started Delta Save Sync monitor.
+
+@@                                             
+    @@@@@             @@@@@@@@@@                      
+.@@   @@          %@@     @@%                        
+.@@     @@@@@@@@@@@@@  (@@                           
+    @@@                 (@@                           
+.@@                       @@%                        
+.@@   @@          %@@     @@%                        
+.@@   @@   @@     %@@     @@%                        
+.@@     @@@  @@@          @@%                        
+    @@@                 (@@                           
+.@@   @@@@@@@@@@@@@@@     @@%                        
+.@@@@@@@             @@@@@@@% 
+
+
+
+2025-05-30 23:50:36 - Emulator started (PID 26160).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 23:51:38 - Started Delta Save Sync monitor.
+
+
+
+    @@                                             
+        @@@@@             @@@@@@@@@@                      
+    .@@   @@          %@@     @@%                        
+    .@@     @@@@@@@@@@@@@  (@@                           
+        @@@                 (@@                           
+    .@@                       @@%                        
+    .@@   @@          %@@     @@%                        
+    .@@   @@   @@     %@@     @@%                        
+    .@@     @@@  @@@          @@%                        
+        @@@                 (@@                           
+    .@@   @@@@@@@@@@@@@@@     @@%                        
+    .@@@@@@@             @@@@@@@% 
+
+
+
+
+
+2025-05-30 23:51:52 - Started Delta Save Sync monitor.
+
+
+
+    @@                                             
+        @@@@@             @@@@@@@@@@                      
+    .@@   @@          %@@     @@%                        
+    .@@     @@@@@@@@@@@@@  (@@                           
+        @@@                 (@@                           
+    .@@                       @@%                        
+    .@@   @@          %@@     @@%                        
+    .@@   @@   @@     %@@     @@%                        
+    .@@     @@@  @@@          @@%                        
+        @@@                 (@@                           
+    .@@   @@@@@@@@@@@@@@@     @@%                        
+    .@@@@@@@             @@@@@@@% 
+
+
+
+
+
+2025-05-30 23:52:08 - Started Delta Save Sync monitor.
+
+
+
+    @@                                             
+        @@@@@             @@@@@@@@@@                      
+    .@@   @@          %@@     @@%                        
+    .@@     @@@@@@@@@@@@@  (@@                           
+        @@@                 (@@                           
+    .@@                       @@%                        
+    .@@   @@          %@@     @@%                        
+    .@@   @@   @@     %@@     @@%                        
+    .@@     @@@  @@@          @@%                        
+        @@@                 (@@                           
+    .@@   @@@@@@@@@@@@@@@     @@%                        
+    .@@@@@@@             @@@@@@@% 
+
+
+
+
+
+2025-05-30 23:52:13 - Emulator started (PID 8168).
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Track            | Watching   |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Track            | Watching   |
+2025-05-30 23:52:18 - Emulator exited; checking for save updates.
+
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| Game Name            | Delta File Name                             | Backup Save File               | Action           | Status     |
++----------------------+----------------------------------------------+--------------------------------+------------------+------------+
+| PokemonSapphire      | GameSave-89b45fb172e6b55d51fc0e6198977518... |                                | Backup           | No Change  |
+| PokemonSeaGlass      | GameSave-62db1951c3e4ca2cf9cd16b20254baa6... |                                | Backup           | No Change  |
+2025-05-30 23:52:18 - All tasks complete. Exiting.
