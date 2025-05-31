@@ -1,4 +1,4 @@
-# 🌀 Delta Save Sync Tray
+# 🌀 Delta Save Sync
 
 Easily sync your Delta emulator save files between PC and iPhone using Dropbox. This tool ensures your save data is backed up and mirrored across devices without manual hassle on PC.
 
